@@ -14,8 +14,12 @@ Dentro del archivo **Programación** se encuentran los disparadores y procedimie
 Finalmente en el archivo **Query** podrán encontrar las consultas realizadas a la base de datos en donde se pone a prueba la consistencia del proyecto en sí.
 
 ## Cómo probar el proyecto
-Se recomienda usar pgAdmin 4 para mostrar el funcionamiento de la base de datos, en caso de no contar con él, a continuación se encuentra la guía de descarga:
+Se recomienda usar **pgAdmin 4** para mostrar el funcionamiento de la base de datos, en caso de no contar con él, a continuación se encuentra la guía de descarga:
+
+### Para Windows
+Puede descargarlo [Aquí](https://www.pgadmin.org/download/pgadmin-4-windows/)
+
+### Para Ubuntu/Debian
+Puede descargarlo [Aquí](https://www.pgadmin.org/download/pgadmin-4-apt/)
 
 Una vez dentro primero deberá correrse el DDL, luego el DML, luego la Programación y al final el archivo Query, bastante intuitivo el funcionamiento.
-
-Una

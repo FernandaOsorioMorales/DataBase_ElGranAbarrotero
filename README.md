@@ -23,3 +23,4 @@ Puede descargarlo [Aquí](https://www.pgadmin.org/download/pgadmin-4-windows/)
 Puede descargarlo [Aquí](https://www.pgadmin.org/download/pgadmin-4-apt/)
 
 Una vez dentro primero deberá correrse el DDL, luego el DML, luego la Programación y al final el archivo Query, bastante intuitivo el funcionamiento.
+Cabe mencionar que para que el proyecto corra de forma correcta tendrá que tener en su equipo una imagen de postgreSql. (:

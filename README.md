@@ -17,10 +17,10 @@ Finally in the **Query** script are the queries to the database in them we can s
 We recommend to use **pgAdmin 4** to show the performance of the database, in case that you haven't it , you can download it in the following links:
 
 ### Para Windows
-Puede descargarlo [Aquí](https://www.pgadmin.org/download/pgadmin-4-windows/)
+Click here to download it [Here](https://www.pgadmin.org/download/pgadmin-4-windows/)
 
 ### Para Ubuntu/Debian
-Puede descargarlo [Aquí](https://www.pgadmin.org/download/pgadmin-4-apt/)
+Click here to download it [Here](https://www.pgadmin.org/download/pgadmin-4-apt/)
 
 Once that you have open the program, you have to add the folder and then start with the execution of the programs, first the DDL, then the DML, after that the Programacion and at the end the Query script. 
 
